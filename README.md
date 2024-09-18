@@ -1,2 +1,2 @@
-# Funçoes Javascript 01
+# Funções Javascript 01
  
