@@ -52,5 +52,28 @@ console.log(30 > 10); //true
 console.log(typeof false);// Boolean
 
 
+// Comparações
+
+// Maior e menor > e <;
+// Igual ==;
+// Diferente !=;
+// Identico ===;
+//Maior ou igual e menor ou igual >=e<=;
+
+
+// 9 Comparações
+
+console.log(5 <= 5);// true
+
+console.log(5 < 5); // false
+
+console.log(10 == 10);// true
+
+console.log(10 == 9); // false
+
+
+console.log(10 !=9);// true
+
+
 
 
