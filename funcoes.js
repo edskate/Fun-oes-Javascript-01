@@ -94,4 +94,19 @@ console.log(9 !== "9"); // true
 
 
 // Operadores Lógicos
+// And or e not
+
+
+// 11 Operadores lógicos
+
+console.log(true && true); // true
+
+console.log(true && false); // false
+
+
+console.log(5 > 2 && 2 < 10); // true
+
+console.log(5 > 2 && "edy" === 1); //false
+
+console.log(5 > 2 || "edy" === 1); //true
 
