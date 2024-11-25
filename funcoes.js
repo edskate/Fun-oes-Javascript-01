@@ -35,3 +35,22 @@ console.log(`textando ` + `com ` + `crase!`);
 
 console.log(`A soma de 2 + 2 é: ${2 + 2}`);
 console.log(`Podemos executar qualquer coisa aqui ${console.log("teste")}`);
+
+// Booleans
+// dois valores 
+
+// estruturas de condições e repetição;
+
+//8 -Boolean
+
+console.log(true);
+
+console.log(5 > 20);// false
+
+console.log(30 > 10); //true
+
+console.log(typeof false);// Boolean
+
+
+
+
