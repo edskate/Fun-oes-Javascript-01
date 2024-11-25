@@ -75,5 +75,21 @@ console.log(10 == 9); // false
 console.log(10 !=9);// true
 
 
+// 10 -Comparação de identico
+
+
+// === e !== funcionam como == e !==;
+
+// tipos de dados; .
+
+// 10 indenticos
+
+console.log(9 == "9"); // true
+
+console.log(9 === "9"); // false
+
+console.log(9 != "9"); // false
+
+console.log(9 !== "9"); // true
 
 
