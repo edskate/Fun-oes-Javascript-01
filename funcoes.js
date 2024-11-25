@@ -18,3 +18,8 @@ function incrementa () {
 }
 incrementa()
 console.log(valor)
+
+//6- Concatenação
+
+console.log("oi, " + " tudo" + " bem?");
+console.log(`textando ` + `com ` + `crase!`);
