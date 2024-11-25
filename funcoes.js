@@ -23,3 +23,15 @@ console.log(valor)
 
 console.log("oi, " + " tudo" + " bem?");
 console.log(`textando ` + `com ` + `crase!`);
+
+// Interpolação (Template strings)
+
+// entre crase
+
+// ${algum código};
+
+
+// 7 - Template Strings
+
+console.log(`A soma de 2 + 2 é: ${2 + 2}`);
+console.log(`Podemos executar qualquer coisa aqui ${console.log("teste")}`);
